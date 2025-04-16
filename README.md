@@ -17,19 +17,8 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 
 -   👨‍💻 Full Stack Developer with hands-on experience in building dynamic web applications
-
--   💻 Tech Stack: **MERN (MongoDB, Express, React, Node.js)**, **JavaScript**, **Python**, **Firebase**, and more
-
+-   📚 Prsuing B.Tech in **Computer Science and Business Systems** at TIET
 -   📊 Interested in combining tech with **finance**, **entrepreneurship**, and real-world problem solving
-
 -   🛠️ Built full-stack platforms, internal dashboards, and interactive websites for events and societies
-
--   📚 Currently pursuing B.Tech in **Computer Science and Business Systems** at TIET
-
--   🧠 Actively learning and applying **competitive analysis** and business strategies
-
--   🌐 Passionate about impactful, scalable solutions that blend **tech + innovation**
-
 -   🌍 Fluent in **Hindi**, **English**, and **Punjabi**
-
 -   🤝 Open to collaborations, learning opportunities, and building meaningful tech projects

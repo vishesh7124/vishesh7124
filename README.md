@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 About Me
+| # 🚀 About Me |
 
 -   👨‍💻 Full Stack Developer with hands-on experience in building dynamic web applications
 -   📚 Pursuing B.Tech in **Computer Science and Business Systems** at TIET

@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🚀 About Me
+# 🚀 About Me
 
 -   👨‍💻 Full Stack Developer with hands-on experience in building dynamic web applications
--   📚 Prsuing B.Tech in **Computer Science and Business Systems** at TIET
+-   📚 Pursuing B.Tech in **Computer Science and Business Systems** at TIET
 -   📊 Interested in combining tech with **finance**, **entrepreneurship**, and real-world problem solving
 -   🛠️ Built full-stack platforms, internal dashboards, and interactive websites for events and societies
--   🌍 Fluent in **Hindi**, **English**, and **Punjabi**
 -   🤝 Open to collaborations, learning opportunities, and building meaningful tech projects
+-   📬 Reach me at: vgupta10_be23@thapar.edu
+

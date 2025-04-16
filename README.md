@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">## Hii I'm Vishesh 👋</h1>
 
 <!--
 **vishesh7124/vishesh7124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
